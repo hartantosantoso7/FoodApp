@@ -1,6 +1,6 @@
 # food_api
 
-![alt text](assets/food.png)
+![alt text](assets/food.PNG)
 
 ## Getting Started
 
