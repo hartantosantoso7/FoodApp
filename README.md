@@ -1,6 +1,6 @@
 # food_api
 
-A new Flutter project.
+![alt text](assets/food.png)
 
 ## Getting Started
 
